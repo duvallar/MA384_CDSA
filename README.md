@@ -13,3 +13,15 @@ https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset (Features: 14,
 https://www.kaggle.com/datasets/alexteboul/heart-disease-health-indicators-dataset (Features: 22, Data records: 254k, Size: 22.74 MB)     
 Behavioral Risk Factor Surveillance System (BRFSS) - National Cardiovascular Disease Surveillance Data | Data | Centers for Disease Control and Prevention (cdc.gov) (Features: 30, Data records: 160k, Size: 53, 295 kB)      
 Rates and Trends in Hypertension-related Cardiovascular Disease Mortality Among US Adults (35+) by County, Age Group, Race/Ethnicity, and Sex – 2000-2019 | Data | Centers for Disease Control and Prevention (cdc.gov) (Features: 24, Data records: 1.1M, Size: 292, 386 kB)        
+
+## Common Variables
+-heart disease presence
+-mental health status/depression
+-sex
+-age
+-BMI
+-smoking status
+-alcohol consumption
+-fruits
+-veggies
+-exercise level
